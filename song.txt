@@ -2,7 +2,4 @@ song
 song line 2
 song line 3
 
-git revert
------------------
-
-new line for non-forward merge purposes
+deleted lines to emulate conflict
