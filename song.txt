@@ -2,4 +2,13 @@ song
 song line 2
 song line 3
 
+
 deleted lines to emulate conflict
+
+git revert
+-----------------
+
+new line for non-forward merge purposes
+
+added verse to simulate conflict
+
