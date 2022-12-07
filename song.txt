@@ -6,3 +6,5 @@ git revert
 -----------------
 
 new line for feature branch
+
+new line for 2nd change in feature branch
