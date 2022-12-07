@@ -5,6 +5,4 @@ song line 3
 git revert
 -----------------
 
-new line for feature branch
-
-new line for 2nd change in feature branch
+new line for non-forward merge purposes
